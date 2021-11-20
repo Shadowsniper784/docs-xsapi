@@ -16,8 +16,6 @@
 
 ## Group 1
 
-* [Clubs](group-1/clubs/README.md)
-  * [Get By Id](group-1/clubs/get-by-id.md)
 * [Page 2](group-1/page-2.md)
 * [Page 1](group-1/page-1.md)
 
