@@ -1,10 +1,8 @@
 # Clubs
 
-[Get a club by id](## Get By Id)
 
-## Get By Id
 
-{% swagger method="get" path="ids({clubid})/decoration/ClubPresence,Roster,Settings" baseUrl="https://clubhub.xboxlive.com/clubs/" summary="" %}
+{% swagger method="get" path="ids({clubid})/decoration/ClubPresence,Roster,Settings" baseUrl="https://clubhub.xboxlive.com/clubs/" summary="Get a club by its id" %}
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -558,5 +556,3 @@ The XBL3.0 token
 ```
 {% endswagger-response %}
 {% endswagger %}
-
-

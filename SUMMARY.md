@@ -17,7 +17,7 @@
 ## Group 1
 
 * [Page 2](group-1/page-2.md)
-* [Page 1](group-1/page-1.md)
+* [Clubs](group-1/page-1.md)
 
 ## Old API Reference <a href="api-reference" id="api-reference"></a>
 
